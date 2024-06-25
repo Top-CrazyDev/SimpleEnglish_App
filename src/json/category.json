@@ -1,0 +1,896 @@
+{  
+    "Top":[
+        {
+            "id": 0, 
+            "category": "politics",
+            "content": "Emerging Markets Face Uncertainty Amidst Geopolitical Tensions and Inflationary Pressures.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 1, 
+            "category": "politics",
+            "content": "Emerging Markets Face Uncertainty Amidst Geopolitical Tensions and Inflationary Pressures.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 2, 
+            "category": "politics",
+            "content": "Our go-to source for breaking news, exclusive stories, and personalized content.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 3, 
+            "category": "technology",
+            "content": "UN Urges Action: Reopening Erez Crossing to Alleviate Humanitarian Crisis in Gaza.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 4, 
+            "category": "technology",
+            "content": "Innovation Unleashed: Groundbreaking Tea Unveiled at Global Summit",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 5, 
+            "category": "business",
+            "content": "Revolutionizing the Future: Breakthrough Technology Set to Transform Industries",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 6, 
+            "category": "business",
+            "content": "Our go-to source for breaking news, exclusive stories, and personalized content.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 7, 
+            "category": "sports",
+            "content": "Emerging Markets Face Uncertainty Amidst Geopolitical Tensions and Inflationary Pressures.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 8, 
+            "category": "sports",
+            "content": "UN Urges Action: Reopening Erez Crossing to Alleviate Humanitarian Crisis in Gaza.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 9, 
+            "category": "entertainment",
+            "content": "Innovation Unleashed: Groundbreaking Tea Unveiled at Global Summit",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 10, 
+            "category": "entertainment",
+            "content": "Revolutionizing the Future: Breakthrough Technology Set to Transform Industries",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 11, 
+            "category": "science",
+            "content": "UN Urges Action: Reopening Erez Crossing to Alleviate Humanitarian Crisis in Gaza.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 12, 
+            "category": "science",
+            "content": "Emerging Markets Face Uncertainty Amidst Geopolitical Tensions and Inflationary Pressures.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 13, 
+            "category": "health",
+            "content": "Emerging Markets Face Uncertainty Amidst Geopolitical Tensions and Inflationary Pressures.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 14, 
+            "category": "health",
+            "content": "Our go-to source for breaking news, exclusive stories, and personalized content.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 15, 
+            "category": "travel",
+            "content": "Revolutionizing the Future: Breakthrough Technology Set to Transform Industries",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 16, 
+            "category": "travel",
+            "content": "UN Urges Action: Reopening Erez Crossing to Alleviate Humanitarian Crisis in Gaza.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 17, 
+            "category": "top_stories",
+            "content": "Revolutionizing the Future: Breakthrough Technology Set to Transform Industries",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 18, 
+            "category": "top_stories",
+            "content": "Our go-to source for breaking news, exclusive stories, and personalized content.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 19, 
+            "category": "education",
+            "content": "UN Urges Action: Reopening Erez Crossing to Alleviate Humanitarian Crisis in Gaza.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        },
+        {
+            "id": 20, 
+            "category": "education",
+            "content": "Our go-to source for breaking news, exclusive stories, and personalized content.",
+            "date": "2020-03-18",
+            "viewcount": 34,
+            "replycount": 20,
+            "replies": [
+                {
+                    "id": 0,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 1,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 2,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 3,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                },
+                {
+                    "id": 4,
+                    "repliername": "Pro Dev",
+                    "replieravatar": "../../assets/image/Avatar.png",
+                    "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+                }
+            ]
+        }
+    ],
+    "Notification": [
+
+    ],
+    "Trending": [
+
+    ],
+    "RecentSearch": [
+        {
+            "id": 0,
+            "keyword":"aaaa"
+        },
+        {
+            "id": 1,
+            "keyword":"bbbbb"
+        },
+        {
+            "id": 2,
+            "keyword":"aaaa"
+        },
+        {
+            "id": 3,
+            "keyword":"aaaa"
+        },
+        {
+            "id": 4,
+            "keyword":"aaaa"
+        },
+        {
+            "id": 5,
+            "keyword":"cccc"
+        },
+        {
+            "id": 6,
+            "keyword":"aaaa"
+        },
+        {
+            "id": 7,
+            "keyword":"ffff"
+        },
+        {
+            "id": 8,
+            "keyword":"dddd"
+        },
+        {
+            "id": 9,
+            "keyword":"aaaa"
+        },
+        {
+            "id": 10,
+            "keyword":"eeee"
+        }
+    ]
+}
