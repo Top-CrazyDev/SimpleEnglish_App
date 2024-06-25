@@ -233,7 +233,7 @@ export default function EnglishProfile(){
                         size={26}
                         ></Icon1>
                     </TouchableOpacity>
-                    <TouchableOpacity style={{width: windowWidth * 30 / 100, marginLeft: windowWidth * 35 / 100, borderWidth: 1, borderColor: '#FF705C80', borderRadius: 20, flexDirection: 'row', justifyContent:'center', alignItems: 'center', padding: 10, gap: 10}}>
+                    <TouchableOpacity onPress={() => navigation.navigate("Logout")} style={{width: windowWidth * 30 / 100, marginLeft: windowWidth * 35 / 100, borderWidth: 1, borderColor: '#FF705C80', borderRadius: 20, flexDirection: 'row', justifyContent:'center', alignItems: 'center', padding: 10, gap: 10}}>
                         <Image source={require('../../assets/image/logout.png')}></Image>
                         <Text style={{fontFamily: 'Plus Jakarta Sans', fontSize: 15, fontWeight: 400, color: '#424242'}}>
                             Logout

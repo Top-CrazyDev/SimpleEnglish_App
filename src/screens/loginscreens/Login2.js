@@ -28,7 +28,7 @@ import {
   const FROM_COLOR = '#2b9066';
   const TO_COLOR = '#4cc392';
 
-  export default function Login() {
+  export default function Login2() {
     const [isPasswordVisible, setIsPasswordVisible] = useState(false);
     const navigation = useNavigation();
     const dispatch = useDispatch();
@@ -67,12 +67,8 @@ import {
                     SIMPLY ENGLISH
                 </Text>
             </View>
-            <View>
-                <Text style={{ textAlign: "center", color: "#2B8F66", fontSize:20, fontWeight: 600, fontFamily: "Plus Jakarta Sans", paddingTop: 20}}>
-                Unlock Your Fluency With Ai-Powered Learning
-                </Text>
-            </View>
-            <View style={{paddingTop: 100, gap: 50}}>
+            
+            <View style={{paddingTop: 50, gap: 50}}>
               <View>
                 <Svg height={50} width="100%" style={{position:'absolute'}}>
                   <Defs>
@@ -83,28 +79,29 @@ import {
                   </Defs>
                   <Rect rx={25} ry={25} width="100%" height="100%" fill="url(#grad)"/>
                 </Svg>
-                <TouchableOpacity onPress={() => navigation.navigate("TabNavigator",{screen: 'HomeNavigator'})} style={{paddingLeft: windowWidth * 10 / 100, paddingRight: windowWidth * 10 /100, paddingTop: 12, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center'}}>
-                  <Image
-                    source={require("../../../assets/image/Google.png")}
-                  ></Image>
-                  <Text style={[style.btntxt, {width:windowWidth * 180/ 480}]}>Continue with Google</Text>
+                <TouchableOpacity onPress={() => navigation.navigate("BottomNavigator")} style={{paddingTop: 12}}>
+                  <Text style={[style.btntxt, {textAlign: 'center'}]}>Get Started</Text>
+                </TouchableOpacity>
+              </View>
+              <TouchableOpacity style={{marginHorizontal: windowWidth * 25 / 100}}>
+                <Text style={{textAlign: 'center', fontFamily: 'Plus Jakarta Sans', fontSize: 20, fontWeight: 600, color: '#2B8F66'}}>Login</Text>
+              </TouchableOpacity>
+            </View>
+            <View style={{paddingTop: 100, gap: 20}}>
+              <View>
+                <TouchableOpacity onPress={() => navigation.navigate("TabNavigator",{screen: 'HomeNavigator'})} style={{marginHorizontal: windowWidth * 5 / 100, paddingHorizontal: windowWidth * 5 / 100, paddingVertical: 12, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', borderRadius: 20, borderColor: '#2B8F6633', borderWidth: 1, backgroundColor: 'white'}}>
+                    <Image
+                    source={require("../../../assets/image/Apple.png")}
+                    ></Image>
+                  <Text style={[style.btntxt, {textAlign: 'center', color: '#616161'}]}>Continue with Google</Text>
                 </TouchableOpacity>
               </View>
               <View>
-                <Svg height={50} width="100%" style={{position:'absolute'}}>
-                  <Defs>
-                      <LinearGradient id="grad" x1="0%" y1="100%" x2="100%" y2="0%">
-                          <Stop offset="0" stopColor={ FROM_COLOR }/>
-                          <Stop offset="1" stopColor={ TO_COLOR }/>
-                      </LinearGradient>
-                  </Defs>
-                  <Rect rx={25} ry={25} width="100%" height="100%" fill="url(#grad)"/>
-                </Svg>
-                <TouchableOpacity style={{paddingLeft: windowWidth * 10 / 100, paddingRight: windowWidth * 10 /100, paddingTop: 12, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center'}}>
+                <TouchableOpacity style={{marginHorizontal: windowWidth * 5 / 100, paddingHorizontal: windowWidth * 5 / 100, paddingVertical: 12, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', borderRadius: 20, borderColor: '#2B8F6633', borderWidth: 1, backgroundColor: 'white'}}>
                   <Image
-                    source={require("../../../assets/image/Apple1.png")}
+                    source={require("../../../assets/image/Google.png")}
                   ></Image>
-                  <Text style={[style.btntxt, {width:windowWidth * 180/ 480}]}>Continue with Apple</Text>
+                  <Text style={[style.btntxt, {width:windowWidth * 180/ 480, color: '#616161'}]}>Continue with Gpple</Text>
                 </TouchableOpacity>
               </View>
             </View>

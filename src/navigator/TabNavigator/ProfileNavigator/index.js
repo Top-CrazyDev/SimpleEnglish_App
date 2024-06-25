@@ -55,6 +55,7 @@ export default function ProfileNavigator(){
                 component={EnglishVersion}
                 options={{ headerShown: false }}
             />
+            
         </Stack.Navigator>
     )
 }
